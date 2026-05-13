@@ -1,8 +1,8 @@
 # Tasbiha Nasir
 
-I'm interested in AI security — specifically how machine 
+I'm interested in AI security , specifically how machine 
 learning models fail under adversarial conditions and what 
-that means for systems people actually rely on. Most of my 
+that means for systems , people actually rely on. Most of my 
 work sits at the intersection of machine learning and 
 network security.
 
